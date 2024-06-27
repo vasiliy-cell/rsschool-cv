@@ -1,2 +1,2 @@
 rsschool-cv
-https://vasiliy-cell.github.io/rsschool-cv/cvg
+https://vasiliy-cell.github.io/rsschool-cv/cv
