@@ -12,7 +12,7 @@ Thats why I'm here. My aim to gain Knowledges about IT sphere.
 + CSS
 + Figma
 ## Code examples
-    Hello world
+''Hello world''
 ## Education
 + School
 + rolling scopes school (in process)
