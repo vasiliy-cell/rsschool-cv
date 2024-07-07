@@ -16,6 +16,6 @@ Thats why I'm here. My aim is to gain knowledge about IT sphere.
 ## Education
 + School
 + rolling scopes school (in process)
-## Languages 
+## Languages
 + Russian - native speaker.
 + English - A2 (B1 in process)

@@ -1,0 +1,26 @@
+body{
+    margin: auto;
+    width: 800px;
+}
+
+.img {
+    overflow: hidden;
+    border-radius: 10000px;
+    width: 150px;
+    height: 150px;
+}
+
+img {
+    width: 100%;
+}
+
+header {
+    background-color: #000000;
+}
+
+.logo {
+    display: block;
+    width: 150px;
+    height: 150px;
+    overflow: hidden;
+}
