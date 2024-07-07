@@ -1,13 +1,12 @@
-.img {
+
+    .img {
     overflow: hidden;
     border-radius: 10000px;
     width: 150px;
     height: 150px;
-
-    img {
-        width: 100%;
-    }
 }
+    img {
+        width: 100%;}
 
 header {
     background-color: #000000;
