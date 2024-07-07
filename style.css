@@ -24,3 +24,12 @@ header {
     height: 150px;
     overflow: hidden;
 }
+
+{<body>
+  <div id="smooth-wrapper">
+    <div id="smooth-content">
+      <!--- ALL YOUR CONTENT HERE --->
+    </div>
+  </div>
+  <!-- position: fixed elements can go outside --->
+</body>}
