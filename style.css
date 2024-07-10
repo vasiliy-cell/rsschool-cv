@@ -5,7 +5,7 @@ body{
 
 .img {
     overflow: hidden;
-    border-radius: 10000px;
+    border-radius: 50%;
     width: 150px;
     height: 150px;
 }
@@ -15,7 +15,7 @@ img {
 }
 
 header {
-    background-color: #000000;
+    background-color: #5c5c5c;
 }
 
 .logo {
@@ -24,12 +24,8 @@ header {
     height: 150px;
     overflow: hidden;
 }
-
-{<body>
-  <div id="smooth-wrapper">
-    <div id="smooth-content">
-      <!--- ALL YOUR CONTENT HERE --->
-    </div>
-  </div>
-  <!-- position: fixed elements can go outside --->
-</body>}
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column}
