@@ -1,0 +1,31 @@
+body{
+    margin: auto;
+    width: 800px;
+}
+
+.img {
+    overflow: hidden;
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+}
+
+img {
+    width: 100%;
+}
+
+header {
+    background-color: #5c5c5c;
+}
+
+.logo {
+    display: block;
+    width: 150px;
+    height: 150px;
+    overflow: hidden;
+}
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column}
